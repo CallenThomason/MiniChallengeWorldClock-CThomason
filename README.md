@@ -42,5 +42,5 @@ Right-click `index.html` → **Open with Live Server**. You'll see 4 cards that 
 11/3/2026
 Mini Exercise: World Clock
 Using what I learned from todays lecture I was able to complete the tasks and get the world clock to appear on the website. I really struggled trying to figure out why my getCityTime wasn't working, and it is because I forgot to include the timezone. I thought that it was a math thing, but I forgot to set the timezone to UTC. After that the rest was pretty simple. Completing the bonus was a lot simpiler than I thought. I followed the framework from the rest of the challenges and created a function to do the math and return the UTC. I made seperate returns for positive and negative offsets. The most challenging part was accessing the data I needed and figuring out what math needed to be done. 
-Peer Reviewer: 
-Review: 
+Peer Reviewer: Valery Lot
+Review: Everything looks great. Great job on getting the bonus done. Everything is clean and concise.
